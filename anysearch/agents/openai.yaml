@@ -1,0 +1,4 @@
+interface:
+  display_name: "AnySearch"
+  short_description: "Search the live web and specialized sources with AnySearch"
+  default_prompt: "Use $anysearch to find current, source-backed information about this topic."
