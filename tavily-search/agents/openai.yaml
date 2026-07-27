@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tavily Search"
+  short_description: "Search the web for current sources with Tavily"
+  default_prompt: "Use $tavily-search to find current, relevant sources about this topic."
