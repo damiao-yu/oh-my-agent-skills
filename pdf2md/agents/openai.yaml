@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF2MD"
+  short_description: "Convert PDF to clean Markdown with local MinerU pipeline"
+  default_prompt: "Use $pdf2md to convert this PDF to Markdown."
