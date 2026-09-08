@@ -6,7 +6,7 @@ A personal collection of portable AI-agent skills. Each skill is a top-level dir
 
 | Skill | Description | Source | License |
 | --- | --- | --- | --- |
-| [anysearch](anysearch/) | Search the web, vertical domains, batches, and URL content with AnySearch | [anysearch-ai/anysearch-skill@caed9ea](https://github.com/anysearch-ai/anysearch-skill/tree/caed9eac2eb6e869b89faa2f3e92d8956b013b56) | [Apache-2.0](anysearch/LICENSE) |
+| [anysearch](anysearch/) | Search the web, vertical domains, batches, and URL content with AnySearch | [anysearch-ai/anysearch-skill@15b7ea5](https://github.com/anysearch-ai/anysearch-skill/tree/15b7ea5039983c9dee328be8c7c609f3eb86058e) | [Apache-2.0](anysearch/LICENSE) |
 | [grill-me](grill-me/) | Explicit user entry point for starting a grilling session | [mattpocock/skills](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) | [MIT](grill-me/LICENSE) |
 | [grilling](grilling/) | Reusable interview workflow for stress-testing a plan or decision | [mattpocock/skills](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md) | [MIT](grilling/LICENSE) |
 | [pdf2md](pdf2md/) | Convert PDFs to Markdown and images with a local MinerU pipeline | Local | [MIT](LICENSE) |
